@@ -1,0 +1,225 @@
+
+mom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 289
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+Dad_arm
+  rotate: false
+  xy: 895, 109
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+Dad_arm_outline
+  rotate: false
+  xy: 895, 2
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+Dad_body
+  rotate: false
+  xy: 853, 779
+  size: 157, 240
+  orig: 157, 240
+  offset: 0, 0
+  index: -1
+Dad_body_outline
+  rotate: false
+  xy: 853, 537
+  size: 157, 240
+  orig: 157, 240
+  offset: 0, 0
+  index: -1
+Dad_foot
+  rotate: true
+  xy: 853, 378
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+Dad_foot_outline
+  rotate: false
+  xy: 665, 326
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+Dad_hand
+  rotate: true
+  xy: 538, 323
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Dad_hand_outline
+  rotate: true
+  xy: 824, 323
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Dad_leg
+  rotate: true
+  xy: 538, 388
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+Dad_leg_outline
+  rotate: true
+  xy: 895, 216
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+Mom_arm
+  rotate: true
+  xy: 2, 26
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+Mom_arm_outline
+  rotate: true
+  xy: 317, 26
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+Mom_foot
+  rotate: true
+  xy: 538, 758
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+Mom_foot_outline
+  rotate: true
+  xy: 538, 495
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+Mom_hand
+  rotate: false
+  xy: 632, 8
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+
+mom2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 265
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+Dad_head
+  rotate: false
+  xy: 538, 388
+  size: 269, 292
+  orig: 269, 292
+  offset: 0, 0
+  index: -1
+Mom_body
+  rotate: false
+  xy: 801, 745
+  size: 209, 250
+  orig: 209, 250
+  offset: 0, 0
+  index: -1
+Mom_body_outline
+  rotate: false
+  xy: 809, 493
+  size: 209, 250
+  orig: 209, 250
+  offset: 0, 0
+  index: -1
+Mom_hand_outline
+  rotate: true
+  xy: 2, 2
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+Mom_head
+  rotate: true
+  xy: 317, 7
+  size: 256, 297
+  orig: 256, 297
+  offset: 0, 0
+  index: -1
+Mom_leg
+  rotate: false
+  xy: 538, 682
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+
+mom3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+mom4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+mom5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+mom6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1

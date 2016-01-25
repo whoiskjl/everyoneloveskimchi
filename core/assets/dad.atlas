@@ -1,0 +1,155 @@
+
+dad.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 273
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+Dad_arm
+  rotate: false
+  xy: 856, 898
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+Dad_arm_outline
+  rotate: false
+  xy: 538, 360
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+Dad_body
+  rotate: false
+  xy: 538, 763
+  size: 157, 240
+  orig: 157, 240
+  offset: 0, 0
+  index: -1
+Dad_body_outline
+  rotate: false
+  xy: 296, 31
+  size: 157, 240
+  orig: 157, 240
+  offset: 0, 0
+  index: -1
+Dad_foot
+  rotate: false
+  xy: 538, 594
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+Dad_foot_outline
+  rotate: false
+  xy: 697, 836
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+Dad_hand
+  rotate: false
+  xy: 455, 166
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Dad_hand_outline
+  rotate: false
+  xy: 697, 602
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Dad_head
+  rotate: true
+  xy: 2, 2
+  size: 269, 292
+  orig: 269, 292
+  offset: 0, 0
+  index: -1
+Dad_leg
+  rotate: false
+  xy: 538, 467
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+Dad_leg_outline
+  rotate: false
+  xy: 697, 709
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+
+dad2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+dad3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+dad4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+dad5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+dad6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+food.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple
+  rotate: false
+  xy: 497, 298
+  size: 168, 186
+  orig: 168, 186
+  offset: 0, 0
+  index: -1
+bacon
+  rotate: false
+  xy: 537, 843
+  size: 260, 159
+  orig: 260, 159
+  offset: 0, 0
+  index: -1
+chicken
+  rotate: false
+  xy: 507, 653
+  size: 247, 188
+  orig: 247, 188
+  offset: 0, 0
+  index: -1
+coffee
+  rotate: true
+  xy: 799, 847
+  size: 155, 221
+  orig: 155, 221
+  offset: 0, 0
+  index: -1
+cupcake
+  rotate: false
+  xy: 667, 310
+  size: 136, 174
+  orig: 136, 174
+  offset: 0, 0
+  index: -1
+donut
+  rotate: false
+  xy: 2, 555
+  size: 228, 217
+  orig: 228, 217
+  offset: 0, 0
+  index: -1
+hamburger
+  rotate: false
+  xy: 287, 298
+  size: 208, 151
+  orig: 208, 151
+  offset: 0, 0
+  index: -1
+hotdog
+  rotate: true
+  xy: 2, 266
+  size: 287, 153
+  orig: 287, 153
+  offset: 0, 0
+  index: -1
+icecream
+  rotate: false
+  xy: 157, 297
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+kimchi
+  rotate: false
+  xy: 492, 486
+  size: 224, 165
+  orig: 224, 165
+  offset: 0, 0
+  index: -1
+pogo
+  rotate: false
+  xy: 2, 2
+  size: 150, 262
+  orig: 150, 262
+  offset: 0, 0
+  index: -1
+ramen
+  rotate: false
+  xy: 252, 656
+  size: 253, 186
+  orig: 253, 186
+  offset: 0, 0
+  index: -1
+steak
+  rotate: false
+  xy: 2, 774
+  size: 248, 228
+  orig: 248, 228
+  offset: 0, 0
+  index: -1
+sushi
+  rotate: false
+  xy: 287, 451
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+taco
+  rotate: false
+  xy: 252, 844
+  size: 283, 158
+  orig: 283, 158
+  offset: 0, 0
+  index: -1

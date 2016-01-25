@@ -1,0 +1,155 @@
+
+Kid2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 265
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+kid2_arm
+  rotate: true
+  xy: 2, 2
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_arm_outline
+  rotate: false
+  xy: 538, 682
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_body
+  rotate: false
+  xy: 538, 367
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_body_outline
+  rotate: true
+  xy: 317, 2
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_foot
+  rotate: false
+  xy: 632, 52
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+
+Kid22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 265
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+kid2_foot_outline
+  rotate: true
+  xy: 2, 2
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_hand
+  rotate: false
+  xy: 538, 682
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_hand_outline
+  rotate: false
+  xy: 538, 367
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_head
+  rotate: true
+  xy: 317, 2
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+kid2_leg
+  rotate: false
+  xy: 632, 52
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+
+Kid23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 265
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+kid2_leg_outline
+  rotate: true
+  xy: 2, 2
+  size: 261, 313
+  orig: 261, 313
+  offset: 0, 0
+  index: -1
+
+Kid24.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+Kid25.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
+
+Kid26.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 534, 730
+  orig: 534, 730
+  offset: 0, 0
+  index: -1
